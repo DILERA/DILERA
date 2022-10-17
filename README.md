@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DILERA
+- 👋 Hi, I’m DILERA or T3C
 - 👀 I’m interested in JQuery,JavaScript,LUA,Python
 - 🌱 I’m currently learning JQuery, JavaScript, AJAX, JSON
 - 💞️ I’m looking to collaborate on in All
